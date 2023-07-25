@@ -45,6 +45,8 @@ namespace CodeChallenges
       Head.last = newNode;
       Head = newNode;
 
+
+
     }
 
     public void ReadList()
